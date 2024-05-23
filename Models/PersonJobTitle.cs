@@ -6,6 +6,8 @@
 
         public string? Name { get; set; }
 
+        //-----------------------------------------------------------------------------------
+
         public virtual ICollection<Person> Persons { get; set; } = new List<Person>();
     }
 }

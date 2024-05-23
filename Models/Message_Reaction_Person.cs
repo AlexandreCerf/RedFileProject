@@ -11,6 +11,8 @@ namespace RedFileProject.Models
         public int ReactionId { get; set; }
 
         public DateTime? Date { get; set; }
+        
+        //-------------------------------------------------------------
 
         public virtual Message Message { get; set; } = null!;
 

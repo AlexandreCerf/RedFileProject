@@ -16,8 +16,6 @@ namespace RedFileProject.Models
 
         public int ChannelPersonRoleId { get; set; }
 
-  
-
         public virtual ChannelPersonRole ChannelPersonRole { get; set; } = null!;
 
         

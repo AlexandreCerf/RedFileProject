@@ -10,6 +10,8 @@
 
         public bool? IsRead { get; set; }
 
+        //----------------------------------------------------------
+
         public virtual Message Message { get; set; } = null!;
 
         public virtual Person Person { get; set; } = null!;
