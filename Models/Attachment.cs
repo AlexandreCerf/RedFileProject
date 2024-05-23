@@ -2,10 +2,17 @@
 {
     public class Attachment
     {
-        public int Id { get; set; }
+        public int AttachmentId { get; set; }
 
-        public string Name { get; set; }
+        public string Name { get; set; } = null!;
 
-        public string Path { get; set; }
+        public string? Path { get; set; }
+
+        //------------------------------------------------------
+
+        public int MessageId { get; set; }
+
+        public virtual Message Message { get; set; } = null!;
+
     }
 }

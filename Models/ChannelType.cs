@@ -2,8 +2,13 @@
 {
     public class ChannelType
     {
-        public int Id { get; set; }
+        public int ChannelTypeId { get; set; }
 
-        public string Name { get; set; }
+        public string ChannelTypeName { get; set; } = null!;
+
+        //----------------------------------------------------------------------------------
+
+        public virtual ICollection<Channel> Channels { get; set; } = new List<Channel>();
+
     }
 }
