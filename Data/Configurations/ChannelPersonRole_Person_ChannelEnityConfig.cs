@@ -8,7 +8,7 @@ namespace RedFileProject.Data.Configurations
     {
         public void Configure(EntityTypeBuilder<ChannelPersonRole_Person_Channel> builder)
         {
-            builder.ToTable("channelpersonrolexpersonxchannel");
+            builder.ToTable("channelpersonrole_person_channel");
 
             builder.HasKey(cpc => new { cpc.PersonId, cpc.ChannelId })
                 .HasAnnotation("MySql:IndexPrefixLength", new[] { 0, 0 });
