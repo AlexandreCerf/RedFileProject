@@ -26,7 +26,7 @@ namespace RedFileProject.Data.Configurations
 
             builder
                 .HasOne<Message>(a => a.Message).WithMany(m => m.Attachments)
-                .HasForeignKey(a => a.AttachmentId);
+                .HasForeignKey(a => a.MessageId);
         }
     }
 }
