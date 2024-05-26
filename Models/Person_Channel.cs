@@ -2,7 +2,7 @@
 {
     public class Person_Channel
     {
-        public int PersonId { get; set; }
+        public string PersonId { get; set; } = null!;
 
         public int ChannelId { get; set; }
 

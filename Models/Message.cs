@@ -10,7 +10,7 @@ namespace RedFileProject.Models
 
         public DateTime? DatePost { get; set; }
 
-        public bool MessageIsNotArchived { get; set; }
+        public bool HasAttachment { get; set; }
 
         //--------------------------------------------------------------------------------------------------
 
@@ -20,7 +20,7 @@ namespace RedFileProject.Models
 
         public virtual Person Person { get; set; } = null!;
 
-        public int PersonId { get; set; }
+        public string PersonId { get; set; } = null!;
 
         public virtual ICollection<Attachment> Attachments { get; set; } = new List<Attachment>();
 

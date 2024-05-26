@@ -25,8 +25,10 @@ namespace RedFileProject.Data.Configurations
                 .HasMaxLength(255);
 
             builder
-                .HasOne<Message>(a => a.Message).WithMany(m => m.Attachments)
-                .HasForeignKey(a => a.MessageId);
+                .HasOne<Message>(a => a.Message)
+                .WithMany(m => m.Attachments)
+                .HasForeignKey(a => a.MessageId)
+                .OnDelete(DeleteBehavior.Cascade);
         }
     }
 }

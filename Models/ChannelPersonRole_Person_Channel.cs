@@ -4,7 +4,7 @@ namespace RedFileProject.Models
 {
     public class ChannelPersonRole_Person_Channel
     {
-        public int PersonId { get; set; }
+        public string PersonId { get; set; } = null!;
 
         public virtual Person Person { get; set; } = null!;
 

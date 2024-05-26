@@ -4,30 +4,22 @@ namespace RedFileProject.Models
 {
     public class Person : IdentityUser
     {
-        public int PersonId { get; set; }
+        public string FirstName { get; set; } = null!;
 
-        public string PersonPassword { get; set; } = null!;
+        public string LastName { get; set; } = null!;
 
-        public string PersonEmail { get; set; } = null!;
+        public DateTime? DateCreatePerson { get; set; }
 
-        public string? PersonPhoneNumber { get; set; }
+        public string? ProfilPicturePath { get; set; }
 
-        public string PersonFirstName { get; set; } = null!;
-
-        public string PersonLastName { get; set; } = null!;
-
-        public DateTime? PersonCreatedTimePerson { get; set; }
-
-        public string? PersonProfilPicturePath { get; set; }
-
-        public string? PersonDescription { get; set; }
+        public string? Description { get; set; }
 
 
         //---------------------------------------------------
 
         public int PersonJobTitleId { get; set; }
 
-        public int PersonStatutId { get; set; }
+        public int PersonStatusId { get; set; }
 
         public int PersonRoleId { get; set; }
 

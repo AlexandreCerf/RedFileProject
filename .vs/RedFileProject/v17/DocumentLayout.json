@@ -1,110 +1,142 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\stagiaire\\source\\repos\\RedFileProject\\",
+  "WorkspaceRootPath": "C:\\Users\\alex5\\source\\repos\\AlexandreCerf\\RedFileProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|c:\\users\\stagiaire\\source\\repos\\redfileproject\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|solutionrelative:models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|c:\\users\\alex5\\source\\repos\\alexandrecerf\\redfileproject\\data\\configurations\\channeltypeentityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|solutionrelative:data\\configurations\\channeltypeentityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\stagiaire\\source\\repos\\RedFileProject\\Migrations\\20240523143525_IdentityInit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240523143525_IdentityInit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|c:\\users\\alex5\\source\\repos\\alexandrecerf\\redfileproject\\data\\configurations\\message_reaction_personentityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|solutionrelative:data\\configurations\\message_reaction_personentityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|c:\\users\\stagiaire\\source\\repos\\redfileproject\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|c:\\users\\alex5\\source\\repos\\alexandrecerf\\redfileproject\\data\\configurations\\channelpersonroleentityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|solutionrelative:data\\configurations\\channelpersonroleentityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|c:\\users\\stagiaire\\source\\repos\\redfileproject\\models\\reaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|solutionrelative:models\\reaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|c:\\users\\alex5\\source\\repos\\alexandrecerf\\redfileproject\\data\\configurations\\channelentityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|solutionrelative:data\\configurations\\channelentityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|c:\\users\\stagiaire\\source\\repos\\redfileproject\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|solutionrelative:models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|c:\\users\\alex5\\source\\repos\\alexandrecerf\\redfileproject\\data\\configurations\\channelpersonrole_person_channelenityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|solutionrelative:data\\configurations\\channelpersonrole_person_channelenityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|c:\\users\\stagiaire\\source\\repos\\redfileproject\\models\\personstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|solutionrelative:models\\personstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|c:\\users\\stagiaire\\source\\repos\\redfileproject\\models\\attachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|solutionrelative:models\\attachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|c:\\users\\stagiaire\\source\\repos\\redfileproject\\models\\channel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|solutionrelative:models\\channel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|c:\\users\\stagiaire\\source\\repos\\redfileproject\\models\\channelpersonrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|solutionrelative:models\\channelpersonrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|c:\\users\\stagiaire\\source\\repos\\redfileproject\\models\\channelpersonrole_person_channel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|solutionrelative:models\\channelpersonrole_person_channel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|c:\\users\\stagiaire\\source\\repos\\redfileproject\\models\\channeltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|solutionrelative:models\\channeltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|c:\\users\\stagiaire\\source\\repos\\redfileproject\\models\\message_reaction_person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|c:\\users\\alex5\\source\\repos\\alexandrecerf\\redfileproject\\models\\message_reaction_person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|solutionrelative:models\\message_reaction_person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|c:\\users\\stagiaire\\source\\repos\\redfileproject\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|solutionrelative:models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|c:\\users\\alex5\\source\\repos\\alexandrecerf\\redfileproject\\models\\personstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|solutionrelative:models\\personstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|c:\\users\\stagiaire\\source\\repos\\redfileproject\\models\\notificationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|solutionrelative:models\\notificationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|c:\\users\\stagiaire\\source\\repos\\redfileproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|c:\\users\\stagiaire\\source\\repos\\redfileproject\\models\\personjobtitle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|solutionrelative:models\\personjobtitle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|c:\\users\\stagiaire\\source\\repos\\redfileproject\\models\\person_notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|solutionrelative:models\\person_notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|c:\\users\\stagiaire\\source\\repos\\redfileproject\\models\\person_message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|solutionrelative:models\\person_message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|c:\\users\\stagiaire\\source\\repos\\redfileproject\\models\\person_channel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|solutionrelative:models\\person_channel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|c:\\users\\stagiaire\\source\\repos\\redfileproject\\models\\personrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|c:\\users\\alex5\\source\\repos\\alexandrecerf\\redfileproject\\models\\personrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|solutionrelative:models\\personrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|c:\\users\\stagiaire\\source\\repos\\redfileproject\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|c:\\users\\alex5\\source\\repos\\alexandrecerf\\redfileproject\\models\\personjobtitle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|solutionrelative:models\\personjobtitle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|c:\\users\\stagiaire\\source\\repos\\redfileproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|c:\\users\\alex5\\source\\repos\\alexandrecerf\\redfileproject\\models\\person_notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|solutionrelative:models\\person_notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|c:\\users\\stagiaire\\source\\repos\\redfileproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|c:\\users\\alex5\\source\\repos\\alexandrecerf\\redfileproject\\models\\person_message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|solutionrelative:models\\person_message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\stagiaire\\source\\repos\\RedFileProject\\obj\\Debug\\net8.0\\RedFileProject.GlobalUsings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net8.0\\RedFileProject.GlobalUsings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|c:\\users\\alex5\\source\\repos\\alexandrecerf\\redfileproject\\models\\person_channel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|solutionrelative:models\\person_channel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|c:\\users\\stagiaire\\source\\repos\\redfileproject\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|c:\\users\\alex5\\source\\repos\\alexandrecerf\\redfileproject\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|solutionrelative:models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|c:\\users\\stagiaire\\source\\repos\\redfileproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|c:\\users\\alex5\\source\\repos\\alexandrecerf\\redfileproject\\models\\notificationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|solutionrelative:models\\notificationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|c:\\users\\alex5\\source\\repos\\alexandrecerf\\redfileproject\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|solutionrelative:models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|c:\\users\\alex5\\source\\repos\\alexandrecerf\\redfileproject\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|solutionrelative:models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|c:\\users\\alex5\\source\\repos\\alexandrecerf\\redfileproject\\models\\channeltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|solutionrelative:models\\channeltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|c:\\users\\alex5\\source\\repos\\alexandrecerf\\redfileproject\\models\\channelpersonrole_person_channel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|solutionrelative:models\\channelpersonrole_person_channel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|c:\\users\\alex5\\source\\repos\\alexandrecerf\\redfileproject\\models\\channelpersonrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|solutionrelative:models\\channelpersonrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|c:\\users\\alex5\\source\\repos\\alexandrecerf\\redfileproject\\models\\channel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|solutionrelative:models\\channel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|c:\\users\\alex5\\source\\repos\\alexandrecerf\\redfileproject\\models\\attachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|solutionrelative:models\\attachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|c:\\users\\alex5\\source\\repos\\alexandrecerf\\redfileproject\\data\\configurations\\person_notificationentityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|solutionrelative:data\\configurations\\person_notificationentityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|c:\\users\\alex5\\source\\repos\\alexandrecerf\\redfileproject\\data\\configurations\\personjobtitleentityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|solutionrelative:data\\configurations\\personjobtitleentityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|c:\\users\\alex5\\source\\repos\\alexandrecerf\\redfileproject\\data\\configurations\\personentityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|solutionrelative:data\\configurations\\personentityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|c:\\users\\alex5\\source\\repos\\alexandrecerf\\redfileproject\\data\\configurations\\reactionentityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|solutionrelative:data\\configurations\\reactionentityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|c:\\users\\alex5\\source\\repos\\alexandrecerf\\redfileproject\\data\\configurations\\personstatusentityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|solutionrelative:data\\configurations\\personstatusentityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|c:\\users\\alex5\\source\\repos\\alexandrecerf\\redfileproject\\data\\configurations\\person_channelentityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|solutionrelative:data\\configurations\\person_channelentityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|c:\\users\\alex5\\source\\repos\\alexandrecerf\\redfileproject\\data\\configurations\\person_messageentityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|solutionrelative:data\\configurations\\person_messageentityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|c:\\users\\alex5\\source\\repos\\alexandrecerf\\redfileproject\\data\\configurations\\messageentityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|solutionrelative:data\\configurations\\messageentityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|c:\\users\\alex5\\source\\repos\\alexandrecerf\\redfileproject\\data\\configurations\\attachmententityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|solutionrelative:data\\configurations\\attachmententityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|c:\\users\\alex5\\source\\repos\\alexandrecerf\\redfileproject\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|c:\\users\\alex5\\source\\repos\\alexandrecerf\\redfileproject\\models\\reaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|solutionrelative:models\\reaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|c:\\users\\alex5\\source\\repos\\alexandrecerf\\redfileproject\\data\\configurations\\notificationentityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|solutionrelative:data\\configurations\\notificationentityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|c:\\users\\alex5\\source\\repos\\alexandrecerf\\redfileproject\\data\\configurations\\notificationtypeentityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF36CD2-32AC-4BA4-95EC-E28A892B5184}|RedFileProject.csproj|solutionrelative:data\\configurations\\notificationtypeentityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -114,352 +146,458 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChannelPersonRole_Person_ChannelEnityConfig.cs",
+              "DocumentMoniker": "C:\\Users\\alex5\\source\\repos\\AlexandreCerf\\RedFileProject\\Data\\Configurations\\ChannelPersonRole_Person_ChannelEnityConfig.cs",
+              "RelativeDocumentMoniker": "Data\\Configurations\\ChannelPersonRole_Person_ChannelEnityConfig.cs",
+              "ToolTip": "C:\\Users\\alex5\\source\\repos\\AlexandreCerf\\RedFileProject\\Data\\Configurations\\ChannelPersonRole_Person_ChannelEnityConfig.cs",
+              "RelativeToolTip": "Data\\Configurations\\ChannelPersonRole_Person_ChannelEnityConfig.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwCAAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T15:47:00.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Attachment.cs",
+              "DocumentMoniker": "C:\\Users\\alex5\\source\\repos\\AlexandreCerf\\RedFileProject\\Models\\Attachment.cs",
+              "RelativeDocumentMoniker": "Models\\Attachment.cs",
+              "ToolTip": "C:\\Users\\alex5\\source\\repos\\AlexandreCerf\\RedFileProject\\Models\\Attachment.cs",
+              "RelativeToolTip": "Models\\Attachment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T21:58:31.145Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "20240523143525_IdentityInit.cs",
-              "DocumentMoniker": "C:\\Users\\stagiaire\\source\\repos\\RedFileProject\\Migrations\\20240523143525_IdentityInit.cs",
-              "RelativeDocumentMoniker": "Migrations\\20240523143525_IdentityInit.cs",
-              "ToolTip": "C:\\Users\\stagiaire\\source\\repos\\RedFileProject\\Migrations\\20240523143525_IdentityInit.cs",
-              "RelativeToolTip": "Migrations\\20240523143525_IdentityInit.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "Message_Reaction_PersonEntityConfig.cs",
+              "DocumentMoniker": "C:\\Users\\alex5\\source\\repos\\AlexandreCerf\\RedFileProject\\Data\\Configurations\\Message_Reaction_PersonEntityConfig.cs",
+              "RelativeDocumentMoniker": "Data\\Configurations\\Message_Reaction_PersonEntityConfig.cs",
+              "ToolTip": "C:\\Users\\alex5\\source\\repos\\AlexandreCerf\\RedFileProject\\Data\\Configurations\\Message_Reaction_PersonEntityConfig.cs",
+              "RelativeToolTip": "Data\\Configurations\\Message_Reaction_PersonEntityConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T14:35:25.864Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Channel.cs",
-              "DocumentMoniker": "C:\\Users\\stagiaire\\source\\repos\\RedFileProject\\Models\\Channel.cs",
-              "RelativeDocumentMoniker": "Models\\Channel.cs",
-              "ToolTip": "C:\\Users\\stagiaire\\source\\repos\\RedFileProject\\Models\\Channel.cs",
-              "RelativeToolTip": "Models\\Channel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAABAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T13:31:08.312Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Attachment.cs",
-              "DocumentMoniker": "C:\\Users\\stagiaire\\source\\repos\\RedFileProject\\Models\\Attachment.cs",
-              "RelativeDocumentMoniker": "Models\\Attachment.cs",
-              "ToolTip": "C:\\Users\\stagiaire\\source\\repos\\RedFileProject\\Models\\Attachment.cs",
-              "RelativeToolTip": "Models\\Attachment.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T13:33:50.573Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PersonStatus.cs",
-              "DocumentMoniker": "C:\\Users\\stagiaire\\source\\repos\\RedFileProject\\Models\\PersonStatus.cs",
-              "RelativeDocumentMoniker": "Models\\PersonStatus.cs",
-              "ToolTip": "C:\\Users\\stagiaire\\source\\repos\\RedFileProject\\Models\\PersonStatus.cs",
-              "RelativeToolTip": "Models\\PersonStatus.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T13:28:45.622Z",
+              "WhenOpened": "2024-05-26T15:56:47.136Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Reaction.cs",
-              "DocumentMoniker": "C:\\Users\\stagiaire\\source\\repos\\RedFileProject\\Models\\Reaction.cs",
-              "RelativeDocumentMoniker": "Models\\Reaction.cs",
-              "ToolTip": "C:\\Users\\stagiaire\\source\\repos\\RedFileProject\\Models\\Reaction.cs",
-              "RelativeToolTip": "Models\\Reaction.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Title": "ChannelEntityConfig.cs",
+              "DocumentMoniker": "C:\\Users\\alex5\\source\\repos\\AlexandreCerf\\RedFileProject\\Data\\Configurations\\ChannelEntityConfig.cs",
+              "RelativeDocumentMoniker": "Data\\Configurations\\ChannelEntityConfig.cs",
+              "ToolTip": "C:\\Users\\alex5\\source\\repos\\AlexandreCerf\\RedFileProject\\Data\\Configurations\\ChannelEntityConfig.cs",
+              "RelativeToolTip": "Data\\Configurations\\ChannelEntityConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T13:35:59.165Z",
+              "WhenOpened": "2024-05-26T14:43:55.814Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "ChannelPersonRoleEntityConfig.cs",
+              "DocumentMoniker": "C:\\Users\\alex5\\source\\repos\\AlexandreCerf\\RedFileProject\\Data\\Configurations\\ChannelPersonRoleEntityConfig.cs",
+              "RelativeDocumentMoniker": "Data\\Configurations\\ChannelPersonRoleEntityConfig.cs",
+              "ToolTip": "C:\\Users\\alex5\\source\\repos\\AlexandreCerf\\RedFileProject\\Data\\Configurations\\ChannelPersonRoleEntityConfig.cs",
+              "RelativeToolTip": "Data\\Configurations\\ChannelPersonRoleEntityConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T15:42:19.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Person_NotificationEntityConfig.cs",
+              "DocumentMoniker": "C:\\Users\\alex5\\source\\repos\\AlexandreCerf\\RedFileProject\\Data\\Configurations\\Person_NotificationEntityConfig.cs",
+              "RelativeDocumentMoniker": "Data\\Configurations\\Person_NotificationEntityConfig.cs",
+              "ToolTip": "C:\\Users\\alex5\\source\\repos\\AlexandreCerf\\RedFileProject\\Data\\Configurations\\Person_NotificationEntityConfig.cs",
+              "RelativeToolTip": "Data\\Configurations\\Person_NotificationEntityConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T18:15:03.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PersonJobTitleEntityConfig.cs",
+              "DocumentMoniker": "C:\\Users\\alex5\\source\\repos\\AlexandreCerf\\RedFileProject\\Data\\Configurations\\PersonJobTitleEntityConfig.cs",
+              "RelativeDocumentMoniker": "Data\\Configurations\\PersonJobTitleEntityConfig.cs",
+              "ToolTip": "C:\\Users\\alex5\\source\\repos\\AlexandreCerf\\RedFileProject\\Data\\Configurations\\PersonJobTitleEntityConfig.cs",
+              "RelativeToolTip": "Data\\Configurations\\PersonJobTitleEntityConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T18:21:38.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PersonEntityConfig.cs",
+              "DocumentMoniker": "C:\\Users\\alex5\\source\\repos\\AlexandreCerf\\RedFileProject\\Data\\Configurations\\PersonEntityConfig.cs",
+              "RelativeDocumentMoniker": "Data\\Configurations\\PersonEntityConfig.cs",
+              "ToolTip": "C:\\Users\\alex5\\source\\repos\\AlexandreCerf\\RedFileProject\\Data\\Configurations\\PersonEntityConfig.cs",
+              "RelativeToolTip": "Data\\Configurations\\PersonEntityConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T17:49:28.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ReactionEntityConfig.cs",
+              "DocumentMoniker": "C:\\Users\\alex5\\source\\repos\\AlexandreCerf\\RedFileProject\\Data\\Configurations\\ReactionEntityConfig.cs",
+              "RelativeDocumentMoniker": "Data\\Configurations\\ReactionEntityConfig.cs",
+              "ToolTip": "C:\\Users\\alex5\\source\\repos\\AlexandreCerf\\RedFileProject\\Data\\Configurations\\ReactionEntityConfig.cs",
+              "RelativeToolTip": "Data\\Configurations\\ReactionEntityConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T18:27:24.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PersonStatusEntityConfig.cs",
+              "DocumentMoniker": "C:\\Users\\alex5\\source\\repos\\AlexandreCerf\\RedFileProject\\Data\\Configurations\\PersonStatusEntityConfig.cs",
+              "RelativeDocumentMoniker": "Data\\Configurations\\PersonStatusEntityConfig.cs",
+              "ToolTip": "C:\\Users\\alex5\\source\\repos\\AlexandreCerf\\RedFileProject\\Data\\Configurations\\PersonStatusEntityConfig.cs",
+              "RelativeToolTip": "Data\\Configurations\\PersonStatusEntityConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T18:25:35.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Person_ChannelEntityConfig.cs",
+              "DocumentMoniker": "C:\\Users\\alex5\\source\\repos\\AlexandreCerf\\RedFileProject\\Data\\Configurations\\Person_ChannelEntityConfig.cs",
+              "RelativeDocumentMoniker": "Data\\Configurations\\Person_ChannelEntityConfig.cs",
+              "ToolTip": "C:\\Users\\alex5\\source\\repos\\AlexandreCerf\\RedFileProject\\Data\\Configurations\\Person_ChannelEntityConfig.cs",
+              "RelativeToolTip": "Data\\Configurations\\Person_ChannelEntityConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T17:45:52.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Person_MessageEntityConfig.cs",
+              "DocumentMoniker": "C:\\Users\\alex5\\source\\repos\\AlexandreCerf\\RedFileProject\\Data\\Configurations\\Person_MessageEntityConfig.cs",
+              "RelativeDocumentMoniker": "Data\\Configurations\\Person_MessageEntityConfig.cs",
+              "ToolTip": "C:\\Users\\alex5\\source\\repos\\AlexandreCerf\\RedFileProject\\Data\\Configurations\\Person_MessageEntityConfig.cs",
+              "RelativeToolTip": "Data\\Configurations\\Person_MessageEntityConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T18:09:39.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MessageEntityConfig.cs",
+              "DocumentMoniker": "C:\\Users\\alex5\\source\\repos\\AlexandreCerf\\RedFileProject\\Data\\Configurations\\MessageEntityConfig.cs",
+              "RelativeDocumentMoniker": "Data\\Configurations\\MessageEntityConfig.cs",
+              "ToolTip": "C:\\Users\\alex5\\source\\repos\\AlexandreCerf\\RedFileProject\\Data\\Configurations\\MessageEntityConfig.cs",
+              "RelativeToolTip": "Data\\Configurations\\MessageEntityConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T15:22:41.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\stagiaire\\source\\repos\\RedFileProject\\Data\\AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\alex5\\source\\repos\\AlexandreCerf\\RedFileProject\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\stagiaire\\source\\repos\\RedFileProject\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\alex5\\source\\repos\\AlexandreCerf\\RedFileProject\\Data\\AppDbContext.cs",
               "RelativeToolTip": "Data\\AppDbContext.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T14:33:53.303Z",
+              "WhenOpened": "2024-05-26T18:32:19.049Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Users\\stagiaire\\source\\repos\\RedFileProject\\Models\\Person.cs",
-              "RelativeDocumentMoniker": "Models\\Person.cs",
-              "ToolTip": "C:\\Users\\stagiaire\\source\\repos\\RedFileProject\\Models\\Person.cs",
-              "RelativeToolTip": "Models\\Person.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
+              "DocumentIndex": 32,
+              "Title": "NotificationEntityConfig.cs",
+              "DocumentMoniker": "C:\\Users\\alex5\\Source\\Repos\\AlexandreCerf\\RedFileProject\\Data\\Configurations\\NotificationEntityConfig.cs",
+              "RelativeDocumentMoniker": "Data\\Configurations\\NotificationEntityConfig.cs",
+              "ToolTip": "C:\\Users\\alex5\\Source\\Repos\\AlexandreCerf\\RedFileProject\\Data\\Configurations\\NotificationEntityConfig.cs",
+              "RelativeToolTip": "Data\\Configurations\\NotificationEntityConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T12:54:19.729Z",
+              "WhenOpened": "2024-05-26T17:28:35.012Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ChannelPersonRole.cs",
-              "DocumentMoniker": "C:\\Users\\stagiaire\\source\\repos\\RedFileProject\\Models\\ChannelPersonRole.cs",
-              "RelativeDocumentMoniker": "Models\\ChannelPersonRole.cs",
-              "ToolTip": "C:\\Users\\stagiaire\\source\\repos\\RedFileProject\\Models\\ChannelPersonRole.cs",
-              "RelativeToolTip": "Models\\ChannelPersonRole.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "DocumentIndex": 33,
+              "Title": "NotificationTypeEntityConfig.cs",
+              "DocumentMoniker": "C:\\Users\\alex5\\source\\repos\\AlexandreCerf\\RedFileProject\\Data\\Configurations\\NotificationTypeEntityConfig.cs",
+              "RelativeDocumentMoniker": "Data\\Configurations\\NotificationTypeEntityConfig.cs",
+              "ToolTip": "C:\\Users\\alex5\\source\\repos\\AlexandreCerf\\RedFileProject\\Data\\Configurations\\NotificationTypeEntityConfig.cs",
+              "RelativeToolTip": "Data\\Configurations\\NotificationTypeEntityConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T13:38:43.398Z",
+              "WhenOpened": "2024-05-26T17:35:09.606Z",
               "EditorCaption": ""
-            },
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Message.cs",
-              "DocumentMoniker": "C:\\Users\\stagiaire\\source\\repos\\RedFileProject\\Models\\Message.cs",
-              "RelativeDocumentMoniker": "Models\\Message.cs",
-              "ToolTip": "C:\\Users\\stagiaire\\source\\repos\\RedFileProject\\Models\\Message.cs",
-              "RelativeToolTip": "Models\\Message.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAkwBQAAAA7AAAA",
+              "DocumentIndex": 6,
+              "Title": "PersonStatus.cs",
+              "DocumentMoniker": "C:\\Users\\alex5\\source\\repos\\AlexandreCerf\\RedFileProject\\Models\\PersonStatus.cs",
+              "RelativeDocumentMoniker": "Models\\PersonStatus.cs",
+              "ToolTip": "C:\\Users\\alex5\\source\\repos\\AlexandreCerf\\RedFileProject\\Models\\PersonStatus.cs",
+              "RelativeToolTip": "Models\\PersonStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T13:34:41.781Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ChannelPersonRole_Person_Channel.cs",
-              "DocumentMoniker": "C:\\Users\\stagiaire\\source\\repos\\RedFileProject\\Models\\ChannelPersonRole_Person_Channel.cs",
-              "RelativeDocumentMoniker": "Models\\ChannelPersonRole_Person_Channel.cs",
-              "ToolTip": "C:\\Users\\stagiaire\\source\\repos\\RedFileProject\\Models\\ChannelPersonRole_Person_Channel.cs",
-              "RelativeToolTip": "Models\\ChannelPersonRole_Person_Channel.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAQwA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T09:54:21.52Z",
+              "WhenOpened": "2024-05-26T19:01:54.376Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "ChannelType.cs",
-              "DocumentMoniker": "C:\\Users\\stagiaire\\source\\repos\\RedFileProject\\Models\\ChannelType.cs",
-              "RelativeDocumentMoniker": "Models\\ChannelType.cs",
-              "ToolTip": "C:\\Users\\stagiaire\\source\\repos\\RedFileProject\\Models\\ChannelType.cs",
-              "RelativeToolTip": "Models\\ChannelType.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Title": "Person_Message.cs",
+              "DocumentMoniker": "C:\\Users\\alex5\\source\\repos\\AlexandreCerf\\RedFileProject\\Models\\Person_Message.cs",
+              "RelativeDocumentMoniker": "Models\\Person_Message.cs",
+              "ToolTip": "C:\\Users\\alex5\\source\\repos\\AlexandreCerf\\RedFileProject\\Models\\Person_Message.cs",
+              "RelativeToolTip": "Models\\Person_Message.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T13:32:14.299Z",
+              "WhenOpened": "2024-05-26T18:09:51.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Person_Notification.cs",
+              "DocumentMoniker": "C:\\Users\\alex5\\source\\repos\\AlexandreCerf\\RedFileProject\\Models\\Person_Notification.cs",
+              "RelativeDocumentMoniker": "Models\\Person_Notification.cs",
+              "ToolTip": "C:\\Users\\alex5\\source\\repos\\AlexandreCerf\\RedFileProject\\Models\\Person_Notification.cs",
+              "RelativeToolTip": "Models\\Person_Notification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T18:17:00.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PersonJobTitle.cs",
+              "DocumentMoniker": "C:\\Users\\alex5\\source\\repos\\AlexandreCerf\\RedFileProject\\Models\\PersonJobTitle.cs",
+              "RelativeDocumentMoniker": "Models\\PersonJobTitle.cs",
+              "ToolTip": "C:\\Users\\alex5\\source\\repos\\AlexandreCerf\\RedFileProject\\Models\\PersonJobTitle.cs",
+              "RelativeToolTip": "Models\\PersonJobTitle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T18:23:38.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Message_Reaction_Person.cs",
+              "DocumentMoniker": "C:\\Users\\alex5\\source\\repos\\AlexandreCerf\\RedFileProject\\Models\\Message_Reaction_Person.cs",
+              "RelativeDocumentMoniker": "Models\\Message_Reaction_Person.cs",
+              "ToolTip": "C:\\Users\\alex5\\source\\repos\\AlexandreCerf\\RedFileProject\\Models\\Message_Reaction_Person.cs",
+              "RelativeToolTip": "Models\\Message_Reaction_Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T16:00:39.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChannelTypeEntityConfig.cs",
+              "DocumentMoniker": "C:\\Users\\alex5\\source\\repos\\AlexandreCerf\\RedFileProject\\Data\\Configurations\\ChannelTypeEntityConfig.cs",
+              "RelativeDocumentMoniker": "Data\\Configurations\\ChannelTypeEntityConfig.cs",
+              "ToolTip": "C:\\Users\\alex5\\source\\repos\\AlexandreCerf\\RedFileProject\\Data\\Configurations\\ChannelTypeEntityConfig.cs",
+              "RelativeToolTip": "Data\\Configurations\\ChannelTypeEntityConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T15:30:45.01Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "Message_Reaction_Person.cs",
-              "DocumentMoniker": "C:\\Users\\stagiaire\\source\\repos\\RedFileProject\\Models\\Message_Reaction_Person.cs",
-              "RelativeDocumentMoniker": "Models\\Message_Reaction_Person.cs",
-              "ToolTip": "C:\\Users\\stagiaire\\source\\repos\\RedFileProject\\Models\\Message_Reaction_Person.cs",
-              "RelativeToolTip": "Models\\Message_Reaction_Person.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Title": "Person_Channel.cs",
+              "DocumentMoniker": "C:\\Users\\alex5\\source\\repos\\AlexandreCerf\\RedFileProject\\Models\\Person_Channel.cs",
+              "RelativeDocumentMoniker": "Models\\Person_Channel.cs",
+              "ToolTip": "C:\\Users\\alex5\\source\\repos\\AlexandreCerf\\RedFileProject\\Models\\Person_Channel.cs",
+              "RelativeToolTip": "Models\\Person_Channel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T13:53:50.407Z",
+              "WhenOpened": "2024-05-26T18:04:02.347Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "Notification.cs",
-              "DocumentMoniker": "C:\\Users\\stagiaire\\source\\repos\\RedFileProject\\Models\\Notification.cs",
-              "RelativeDocumentMoniker": "Models\\Notification.cs",
-              "ToolTip": "C:\\Users\\stagiaire\\source\\repos\\RedFileProject\\Models\\Notification.cs",
-              "RelativeToolTip": "Models\\Notification.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAzAAAA",
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\alex5\\source\\repos\\AlexandreCerf\\RedFileProject\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "Models\\Person.cs",
+              "ToolTip": "C:\\Users\\alex5\\source\\repos\\AlexandreCerf\\RedFileProject\\Models\\Person.cs",
+              "RelativeToolTip": "Models\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T13:36:55.478Z",
+              "WhenOpened": "2024-05-26T17:46:12.896Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "NotificationType.cs",
-              "DocumentMoniker": "C:\\Users\\stagiaire\\source\\repos\\RedFileProject\\Models\\NotificationType.cs",
+              "DocumentMoniker": "C:\\Users\\alex5\\source\\repos\\AlexandreCerf\\RedFileProject\\Models\\NotificationType.cs",
               "RelativeDocumentMoniker": "Models\\NotificationType.cs",
-              "ToolTip": "C:\\Users\\stagiaire\\source\\repos\\RedFileProject\\Models\\NotificationType.cs",
+              "ToolTip": "C:\\Users\\alex5\\source\\repos\\AlexandreCerf\\RedFileProject\\Models\\NotificationType.cs",
               "RelativeToolTip": "Models\\NotificationType.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T13:38:06.376Z",
+              "WhenOpened": "2024-05-26T17:41:44.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PersonRole.cs",
+              "DocumentMoniker": "C:\\Users\\alex5\\source\\repos\\AlexandreCerf\\RedFileProject\\Models\\PersonRole.cs",
+              "RelativeDocumentMoniker": "Models\\PersonRole.cs",
+              "ToolTip": "C:\\Users\\alex5\\source\\repos\\AlexandreCerf\\RedFileProject\\Models\\PersonRole.cs",
+              "RelativeToolTip": "Models\\PersonRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T17:46:10.52Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\stagiaire\\source\\repos\\RedFileProject\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\stagiaire\\source\\repos\\RedFileProject\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Users\\alex5\\source\\repos\\AlexandreCerf\\RedFileProject\\Models\\Notification.cs",
+              "RelativeDocumentMoniker": "Models\\Notification.cs",
+              "ToolTip": "C:\\Users\\alex5\\source\\repos\\AlexandreCerf\\RedFileProject\\Models\\Notification.cs",
+              "RelativeToolTip": "Models\\Notification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T11:47:18.486Z",
+              "WhenOpened": "2024-05-26T17:30:26.716Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "PersonJobTitle.cs",
-              "DocumentMoniker": "C:\\Users\\stagiaire\\source\\repos\\RedFileProject\\Models\\PersonJobTitle.cs",
-              "RelativeDocumentMoniker": "Models\\PersonJobTitle.cs",
-              "ToolTip": "C:\\Users\\stagiaire\\source\\repos\\RedFileProject\\Models\\PersonJobTitle.cs",
-              "RelativeToolTip": "Models\\PersonJobTitle.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\alex5\\source\\repos\\AlexandreCerf\\RedFileProject\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "Models\\Message.cs",
+              "ToolTip": "C:\\Users\\alex5\\source\\repos\\AlexandreCerf\\RedFileProject\\Models\\Message.cs",
+              "RelativeToolTip": "Models\\Message.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T13:29:42.851Z",
+              "WhenOpened": "2024-05-26T17:18:19.122Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "Person_Notification.cs",
-              "DocumentMoniker": "C:\\Users\\stagiaire\\source\\repos\\RedFileProject\\Models\\Person_Notification.cs",
-              "RelativeDocumentMoniker": "Models\\Person_Notification.cs",
-              "ToolTip": "C:\\Users\\stagiaire\\source\\repos\\RedFileProject\\Models\\Person_Notification.cs",
-              "RelativeToolTip": "Models\\Person_Notification.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Title": "ChannelType.cs",
+              "DocumentMoniker": "C:\\Users\\alex5\\source\\repos\\AlexandreCerf\\RedFileProject\\Models\\ChannelType.cs",
+              "RelativeDocumentMoniker": "Models\\ChannelType.cs",
+              "ToolTip": "C:\\Users\\alex5\\source\\repos\\AlexandreCerf\\RedFileProject\\Models\\ChannelType.cs",
+              "RelativeToolTip": "Models\\ChannelType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T14:23:27.276Z",
+              "WhenOpened": "2024-05-26T15:22:08.504Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "Person_Message.cs",
-              "DocumentMoniker": "C:\\Users\\stagiaire\\source\\repos\\RedFileProject\\Models\\Person_Message.cs",
-              "RelativeDocumentMoniker": "Models\\Person_Message.cs",
-              "ToolTip": "C:\\Users\\stagiaire\\source\\repos\\RedFileProject\\Models\\Person_Message.cs",
-              "RelativeToolTip": "Models\\Person_Message.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
+              "Title": "ChannelPersonRole_Person_Channel.cs",
+              "DocumentMoniker": "C:\\Users\\alex5\\source\\repos\\AlexandreCerf\\RedFileProject\\Models\\ChannelPersonRole_Person_Channel.cs",
+              "RelativeDocumentMoniker": "Models\\ChannelPersonRole_Person_Channel.cs",
+              "ToolTip": "C:\\Users\\alex5\\source\\repos\\AlexandreCerf\\RedFileProject\\Models\\ChannelPersonRole_Person_Channel.cs",
+              "RelativeToolTip": "Models\\ChannelPersonRole_Person_Channel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T14:21:22.141Z",
+              "WhenOpened": "2024-05-26T15:48:08.357Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "Person_Channel.cs",
-              "DocumentMoniker": "C:\\Users\\stagiaire\\source\\repos\\RedFileProject\\Models\\Person_Channel.cs",
-              "RelativeDocumentMoniker": "Models\\Person_Channel.cs",
-              "ToolTip": "C:\\Users\\stagiaire\\source\\repos\\RedFileProject\\Models\\Person_Channel.cs",
-              "RelativeToolTip": "Models\\Person_Channel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Title": "ChannelPersonRole.cs",
+              "DocumentMoniker": "C:\\Users\\alex5\\source\\repos\\AlexandreCerf\\RedFileProject\\Models\\ChannelPersonRole.cs",
+              "RelativeDocumentMoniker": "Models\\ChannelPersonRole.cs",
+              "ToolTip": "C:\\Users\\alex5\\source\\repos\\AlexandreCerf\\RedFileProject\\Models\\ChannelPersonRole.cs",
+              "RelativeToolTip": "Models\\ChannelPersonRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T14:19:25.205Z",
+              "WhenOpened": "2024-05-26T15:42:25.512Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "PersonRole.cs",
-              "DocumentMoniker": "C:\\Users\\stagiaire\\source\\repos\\RedFileProject\\Models\\PersonRole.cs",
-              "RelativeDocumentMoniker": "Models\\PersonRole.cs",
-              "ToolTip": "C:\\Users\\stagiaire\\source\\repos\\RedFileProject\\Models\\PersonRole.cs",
-              "RelativeToolTip": "Models\\PersonRole.cs",
+              "Title": "Channel.cs",
+              "DocumentMoniker": "C:\\Users\\alex5\\source\\repos\\AlexandreCerf\\RedFileProject\\Models\\Channel.cs",
+              "RelativeDocumentMoniker": "Models\\Channel.cs",
+              "ToolTip": "C:\\Users\\alex5\\source\\repos\\AlexandreCerf\\RedFileProject\\Models\\Channel.cs",
+              "RelativeToolTip": "Models\\Channel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:44:30.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AttachmentEntityConfig.cs",
+              "DocumentMoniker": "C:\\Users\\alex5\\source\\repos\\AlexandreCerf\\RedFileProject\\Data\\Configurations\\AttachmentEntityConfig.cs",
+              "RelativeDocumentMoniker": "Data\\Configurations\\AttachmentEntityConfig.cs",
+              "ToolTip": "C:\\Users\\alex5\\source\\repos\\AlexandreCerf\\RedFileProject\\Data\\Configurations\\AttachmentEntityConfig.cs",
+              "RelativeToolTip": "Data\\Configurations\\AttachmentEntityConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T11:20:38.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Reaction.cs",
+              "DocumentMoniker": "C:\\Users\\alex5\\source\\repos\\AlexandreCerf\\RedFileProject\\Models\\Reaction.cs",
+              "RelativeDocumentMoniker": "Models\\Reaction.cs",
+              "ToolTip": "C:\\Users\\alex5\\source\\repos\\AlexandreCerf\\RedFileProject\\Models\\Reaction.cs",
+              "RelativeToolTip": "Models\\Reaction.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T13:30:23.73Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\stagiaire\\source\\repos\\RedFileProject\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\stagiaire\\source\\repos\\RedFileProject\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "Models\\ErrorViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T06:35:27.406Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\stagiaire\\source\\repos\\RedFileProject\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\stagiaire\\source\\repos\\RedFileProject\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-07T14:51:02.073Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\stagiaire\\source\\repos\\RedFileProject\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\stagiaire\\source\\repos\\RedFileProject\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAQwA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T14:23:26.469Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "RedFileProject.GlobalUsings.g.cs",
-              "DocumentMoniker": "C:\\Users\\stagiaire\\source\\repos\\RedFileProject\\obj\\Debug\\net8.0\\RedFileProject.GlobalUsings.g.cs",
-              "RelativeDocumentMoniker": "obj\\Debug\\net8.0\\RedFileProject.GlobalUsings.g.cs",
-              "ToolTip": "C:\\Users\\stagiaire\\source\\repos\\RedFileProject\\obj\\Debug\\net8.0\\RedFileProject.GlobalUsings.g.cs",
-              "RelativeToolTip": "obj\\Debug\\net8.0\\RedFileProject.GlobalUsings.g.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T06:42:09.502Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\stagiaire\\source\\repos\\RedFileProject\\.gitignore",
-              "RelativeDocumentMoniker": ".gitignore",
-              "ToolTip": "C:\\Users\\stagiaire\\source\\repos\\RedFileProject\\.gitignore",
-              "RelativeToolTip": ".gitignore",
-              "ViewState": "AQIAABIAAAAAAAAAAIBZwEsAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-05-15T07:53:13.652Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\stagiaire\\source\\repos\\RedFileProject\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\stagiaire\\source\\repos\\RedFileProject\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABgAAAAAAAAAAIBZwB4AAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-07T13:54:56.927Z",
+              "WhenOpened": "2024-05-26T18:27:27.739Z",
               "EditorCaption": ""
             }
           ]

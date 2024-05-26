@@ -15,7 +15,16 @@ namespace RedFileProject.Data.Configurations
                 .Property(c => c.Name)
                 .IsRequired()
                 .HasColumnType("varchar")
-                .HasMaxLength(255);
+                .HasMaxLength(50);
+            builder
+                .Property(c => c.Image)
+                .HasColumnType("varchar")
+                .HasMaxLength (50);
+            builder
+                .HasOne<ChannelType>(c => c.ChannelType)
+                .WithMany(ct => ct.Channels)
+                .HasForeignKey(c => c.ChannelTypeId)
+                .OnDelete(DeleteBehavior.Cascade); 
         }
     }
 }

@@ -2,11 +2,11 @@
 {
     public class Reaction
     {
-        public int ReactionId { get; set; }
+        public int Id { get; set; }
 
-        public string ReactionName { get; set; } = null!;
+        public string Name { get; set; } = null!;
 
-        public string? ReactionPicturePath { get; set; }
+        public string? PicturePath { get; set; }
 
         public virtual ICollection<Message_Reaction_Person> Message_Reaction_Person { get; set; } = new List<Message_Reaction_Person>();
     }

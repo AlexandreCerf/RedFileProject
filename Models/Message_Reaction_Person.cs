@@ -4,7 +4,7 @@ namespace RedFileProject.Models
 {
     public class Message_Reaction_Person
     {
-        public int PersonId { get; set; }
+        public string PersonId { get; set; } = null!;
 
         public int MessageId { get; set; }
 
