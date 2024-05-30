@@ -37,7 +37,7 @@ namespace RedFileProject
 
             app.MapControllerRoute(
                 name: "default",
-                pattern: "{controller=Home}/{action=Index}/{id?}");
+                pattern: "{controller=Logger}/{action=Login}/{id?}");
 
             app.Run();
         }
