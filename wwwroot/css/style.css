@@ -17,6 +17,19 @@ html {
   min-height: 100%;
 }
 
-body {
-  margin-bottom: 60px;
+
+.feur {
+    max-height: 100%;
+    background-color: #dcd3bb;
+}
+
+.body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.btn {
+    background-color: #011A2A;
+    color: white;
 }

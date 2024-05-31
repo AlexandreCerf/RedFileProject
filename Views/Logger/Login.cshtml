@@ -1,4 +1,4 @@
-﻿@model RedFileProject.ViewModels.LoggerPagesViewModel.LoginViewModel
+﻿    @model RedFileProject.ViewModels.LoggerPagesViewModel.LoginViewModel
 @{
     Layout = null;
 }
@@ -9,47 +9,37 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Login</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="~/css/site.css" />
+    <link rel="stylesheet" href="~/css/style.css" />
 </head>
 <body>
-    <div class="row container-fluid">
+    <div class="row">
         <div class="col-6 d-flex justify-content-center align-items-center vh-100">
-            
-                <form class="col-8">
-                    <div class="mb-3">
-                        <label for="exampleInputEmail1" class="form-label">Email address</label>
-                        <input type="email" class="form-control" id="exampleInputEmail1">
-                    </div>
-                    <div class="mb-3">
-                        <label for="exampleInputPassword1" class="form-label">Password</label>
-                        <input type="password" class="form-control" id="exampleInputPassword1">
-                    </div>
-                    <div class="row">
-                        <div class="mb-3 col-6 form-check">
-                            <input type="checkbox" class="form-check-input" id="exampleCheck1">
-                            <label class="form-check-label" for="exampleCheck1">Check me out</label>
-                            
-                        </div>
-                        <div class="col-6 text-lg-end">
-                            <p><a class="link-opacity-100" href="#">Link opacity 100</a></p>
-                        </div>
-                        
-                    </div>
-                    
-                    <button type="submit" class="btn btn-primary">Submit</button>
-                </form>
-            
+            <form class="col-8">
+                <div class="mb-3">
+                    <label for="exampleInputEmail1" class="form-label">Adresse Email</label>
+                    <input type="email" class="form-control" placeholder="Veuillez entrer votre Adresse Email">
+                </div>
+                <div class="mb-3">
+                    <label for="exampleInputPassword1" class="form-label">Mot de Passe</label>
+                    <input type="password" class="form-control" placeholder="Veuillez entrer votre Mot de Passe">
+                </div>
+                <div>
+                    <p><a class="link-opacity-100" href="#">Mot de Passe oublié ?</a></p>
+                </div>
+                <div>
+                    <button type="submit" class="btn col-12">Se Connecter</button>
+                </div>      
+            </form>
         </div>
-        <div class="col-6">
-            <img class ="feur " src="#" alt="Alternate Text" />
+        <div class="feur d-flex justify-content-center align-items-center col-6">
+            <img class="img-fluid " src="~/images/QuackerLogo.png" alt="Alternate Text" />
         </div>
     </div>
 
 
     <style>
-        .feurs{
-            max-height:80%;
-        }
+        
+
     </style>
 
 
